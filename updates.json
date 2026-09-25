@@ -1,1 +1,12 @@
-{"plugins":{"subplayer":{"component_sha256":"a2daa5785f6fc2808e9c203196c4280b9f1e2bbfac63298bc43ca47d95943ded","component_url":"https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/SUB-PLAYER.component.zip","release_notes":"Update feed is live.","version":"1.1.0","vst3_sha256":"775ad6370d6abe95dd058a6d48a216ae120ad701964798597cd63582ba08a9d0","vst3_url":"https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/SUB-PLAYER.vst3.zip"}}}
+{
+  "plugins": {
+    "subplayer": {
+      "component_sha256": "567ee40259a7fba2c3b123745213759c7dbf8458c59203888080edf7ad3669e9",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.2.0/Sub-Player-Pro.component.zip",
+      "release_notes": "Renamed to Sub-Player Pro. One-shots only: files over 1 MB are now skipped on scan, drop, and load.",
+      "version": "1.2.0",
+      "vst3_sha256": "c9e59be248e1a788be45454cc59bd80ca41aa484508e68982b053ef23c4b2027",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.2.0/Sub-Player-Pro.vst3.zip"
+    }
+  }
+}
