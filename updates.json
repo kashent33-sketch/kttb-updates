@@ -1,12 +1,12 @@
 {
   "plugins": {
     "subplayer": {
-      "component_sha256": "567ee40259a7fba2c3b123745213759c7dbf8458c59203888080edf7ad3669e9",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.2.0/Sub-Player-Pro.component.zip",
-      "release_notes": "Renamed to Sub-Player Pro. One-shots only: files over 1 MB are now skipped on scan, drop, and load.",
-      "version": "1.2.0",
-      "vst3_sha256": "c9e59be248e1a788be45454cc59bd80ca41aa484508e68982b053ef23c4b2027",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.2.0/Sub-Player-Pro.vst3.zip"
+      "version": "1.3.0",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.component.zip",
+      "component_sha256": "81c4e677f0707d45d3da990843f123c813980a965fbf960fba6b6ce68d4b3a88",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.vst3.zip",
+      "vst3_sha256": "fd8f62a000fa8002f28d7c12154ee64417e9dae42c2d2d567b221dc44b337129",
+      "release_notes": "v1.3.0 \u2014 SCAN FOLDER now MOVES subs/808s/basses into the SUBPLAYER folder so the whole library lives in one place. Content-hash dedupe (duplicates go to a recoverable Trash folder), no-overwrite name collisions, clap/hat/snare false positives never moved."
     },
     "lock": {
       "component_sha256": "55a59a563cb7a0147ab6430fce11c437417603d37b00c8fdd8bec61b6e0288d4",
