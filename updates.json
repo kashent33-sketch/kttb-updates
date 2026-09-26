@@ -7,6 +7,14 @@
       "version": "1.2.0",
       "vst3_sha256": "c9e59be248e1a788be45454cc59bd80ca41aa484508e68982b053ef23c4b2027",
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.2.0/Sub-Player-Pro.vst3.zip"
+    },
+    "lock": {
+      "component_sha256": "55a59a563cb7a0147ab6430fce11c437417603d37b00c8fdd8bec61b6e0288d4",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.component.zip",
+      "release_notes": "First release. Automatic vocal alignment: always listening, captures on vocal, aligns dubs to the lead. Never mutes your live vocal.",
+      "version": "1.0.0",
+      "vst3_sha256": "d70db269cbb015c4278cb4ca92e16b61205c18f9679549e91d71a87e58f8a032",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     }
   }
 }
