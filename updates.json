@@ -1,12 +1,12 @@
 {
   "plugins": {
     "subplayer": {
-      "version": "1.3.0",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.component.zip",
-      "component_sha256": "81c4e677f0707d45d3da990843f123c813980a965fbf960fba6b6ce68d4b3a88",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.vst3.zip",
-      "vst3_sha256": "fd8f62a000fa8002f28d7c12154ee64417e9dae42c2d2d567b221dc44b337129",
-      "release_notes": "v1.3.0 \u2014 SCAN FOLDER now MOVES subs/808s/basses into the SUBPLAYER folder so the whole library lives in one place. Content-hash dedupe (duplicates go to a recoverable Trash folder), no-overwrite name collisions, clap/hat/snare false positives never moved."
+      "version": "1.3.1",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.1/Sub-Player-Pro.component.zip",
+      "component_sha256": "7d4d4da022cab4f693ae90bb528547833a6b9bd143fc03b3124111ab3388bcc3",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.1/Sub-Player-Pro.vst3.zip",
+      "vst3_sha256": "07b1b40292bd4d4c1d9017e7d90406ba72ab0fcf7b408d5354468936363a964e",
+      "release_notes": "v1.3.1: Knob values (LEVEL/ATTACK/RELEASE/FILTER) now carry over when scrolling the sound bank instead of resetting. PITCH knob removed \u2014 5-knob row. CHOKE (\"cut itself\") switch verified. UPDATE button now points at the real update feed."
     },
     "lock": {
       "component_sha256": "55a59a563cb7a0147ab6430fce11c437417603d37b00c8fdd8bec61b6e0288d4",
