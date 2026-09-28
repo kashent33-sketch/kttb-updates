@@ -1,20 +1,28 @@
 {
-  "plugins": {
-    "subplayer": {
-      "version": "1.3.0",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.component.zip",
-      "component_sha256": "81c4e677f0707d45d3da990843f123c813980a965fbf960fba6b6ce68d4b3a88",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.vst3.zip",
-      "vst3_sha256": "fd8f62a000fa8002f28d7c12154ee64417e9dae42c2d2d567b221dc44b337129",
-      "release_notes": "v1.3.0 \u2014 SCAN FOLDER now MOVES subs/808s/basses into the SUBPLAYER folder so the whole library lives in one place. Content-hash dedupe (duplicates go to a recoverable Trash folder), no-overwrite name collisions, clap/hat/snare false positives never moved."
-    },
-    "lock": {
-      "component_sha256": "55a59a563cb7a0147ab6430fce11c437417603d37b00c8fdd8bec61b6e0288d4",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.component.zip",
-      "release_notes": "First release. Automatic vocal alignment: always listening, captures on vocal, aligns dubs to the lead. Never mutes your live vocal.",
-      "version": "1.0.0",
-      "vst3_sha256": "d70db269cbb015c4278cb4ca92e16b61205c18f9679549e91d71a87e58f8a032",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
-    }
+ "plugins": {
+  "subplayer": {
+   "version": "1.3.0",
+   "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.component.zip",
+   "component_sha256": "81c4e677f0707d45d3da990843f123c813980a965fbf960fba6b6ce68d4b3a88",
+   "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Sub-Player-Pro.vst3.zip",
+   "vst3_sha256": "fd8f62a000fa8002f28d7c12154ee64417e9dae42c2d2d567b221dc44b337129",
+   "release_notes": "v1.3.0 \u2014 SCAN FOLDER now MOVES subs/808s/basses into the SUBPLAYER folder so the whole library lives in one place. Content-hash dedupe (duplicates go to a recoverable Trash folder), no-overwrite name collisions, clap/hat/snare false positives never moved."
+  },
+  "lock": {
+   "component_sha256": "55a59a563cb7a0147ab6430fce11c437417603d37b00c8fdd8bec61b6e0288d4",
+   "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.component.zip",
+   "release_notes": "First release. Automatic vocal alignment: always listening, captures on vocal, aligns dubs to the lead. Never mutes your live vocal.",
+   "version": "1.0.0",
+   "vst3_sha256": "d70db269cbb015c4278cb4ca92e16b61205c18f9679549e91d71a87e58f8a032",
+   "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
+  },
+  "studio-rack": {
+   "version": "1.0.0",
+   "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/Studio-Rack.component.zip",
+   "component_sha256": "311f48c1bae8a238a146cd97d2558e57c936fbcac157bb93d2b625897eb86753",
+   "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/Studio-Rack.vst3.zip",
+   "vst3_sha256": "5235cfd3057fb5ea0d5e14a9e0c79dedd0b1292a632d1e78b5de0e8d957bf28b",
+   "release_notes": "First build. 10-stage Joyner Lucas style vocal chain: pitch, corrective EQ, FET comp, opto comp, de-esser, character EQ, saturation, limiter, slap delay, plate."
   }
+ }
 }
