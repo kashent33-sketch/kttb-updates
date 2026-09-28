@@ -23,6 +23,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/Loop-Lab.vst3.zip",
       "vst3_sha256": "0384d50835efbe5cf212eb712df91a4c95820718d6e4b69e217f66bd7338991b",
       "release_notes": "v1.0.0: First release. Melody-loop player: 16 waveform slices on MIDI C1-E2, tempo sync, key detection, pitch to project key, reference-only folder scan, zero latency. UPDATE button wired to this feed."
+    },
+    "hub": {
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/hub/v1.0.1/KTTB-Hub.app.zip",
+      "sha256": "21d1e5e141f542820269a9d0f796909f8bb33dbfe654a2a76c64da90131457d0",
+      "release_notes": "v1.0.1: Hub can now update itself from inside the Hub (UPDATE HUB button). Fixed downloader stall that aborted every download after 64 KB."
     }
   }
 }
