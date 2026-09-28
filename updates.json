@@ -1,12 +1,12 @@
 {
   "plugins": {
     "subplayer": {
-      "version": "1.3.1",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.1/Sub-Player-Pro.component.zip",
-      "component_sha256": "7d4d4da022cab4f693ae90bb528547833a6b9bd143fc03b3124111ab3388bcc3",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.1/Sub-Player-Pro.vst3.zip",
-      "vst3_sha256": "07b1b40292bd4d4c1d9017e7d90406ba72ab0fcf7b408d5354468936363a964e",
-      "release_notes": "v1.3.1: Knob values (LEVEL/ATTACK/RELEASE/FILTER) now carry over when scrolling the sound bank instead of resetting. PITCH knob removed \u2014 5-knob row. CHOKE (\"cut itself\") switch verified. UPDATE button now points at the real update feed."
+      "version": "1.3.2",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.2/Sub-Player-Pro.component.zip",
+      "component_sha256": "5cce47b60d882b3954fcd1c1587f80c508cd32a127819a655917677a407c71e2",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.2/Sub-Player-Pro.vst3.zip",
+      "vst3_sha256": "abd03032202074e89a1bf57848a3bb95b118bf5e97b78f2fac56f68b81998f05",
+      "release_notes": "v1.3.2: PITCH knob restored (master + all 16 per-pad pitch params, -24..+24 semitones, default 0). Old sessions keep their pitch values. Knob values still carry when scrolling the bank, CHOKE stays global and ON, UPDATE button wired to the live feed."
     },
     "lock": {
       "component_sha256": "55a59a563cb7a0147ab6430fce11c437417603d37b00c8fdd8bec61b6e0288d4",
