@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.0.0",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/Loop-Lab.component.zip",
-      "component_sha256": "5799dae53a6edc1dbe75c2ad3787c036fd289b1e7e50bde7f481fda4e534fb6d",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/Loop-Lab.vst3.zip",
-      "vst3_sha256": "0384d50835efbe5cf212eb712df91a4c95820718d6e4b69e217f66bd7338991b",
-      "release_notes": "v1.0.0: First release. Melody-loop player: 16 waveform slices on MIDI C1-E2, tempo sync, key detection, pitch to project key, reference-only folder scan, zero latency. UPDATE button wired to this feed."
+      "version": "1.0.1",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.1/Loop-Lab-v1.0.1.component.zip",
+      "component_sha256": "be4bc75075a3729dedace270fa554cf295e933e0c4442d4f846315999437a544",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.1/Loop-Lab-v1.0.1.vst3.zip",
+      "vst3_sha256": "d7e161648ea07be87e6a49842c3cc13ceb96353dc41a9879c7381be0e87c4ff9",
+      "release_notes": "v1.0.1: Fixed AU crash on load (FL Studio EAccessViolation). The voice engine held a dead stack-local channel array; it now copies pointers into per-voice storage. Regression test added. Melody-loop player: 16 waveform slices on MIDI C1-E2, tempo sync, key detection, pitch to project key, reference-only folder scan, zero latency. UPDATE button wired to this feed."
     },
     "hub": {
       "version": "1.0.1",
