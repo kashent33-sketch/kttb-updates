@@ -15,6 +15,14 @@
       "version": "1.0.0",
       "vst3_sha256": "d70db269cbb015c4278cb4ca92e16b61205c18f9679549e91d71a87e58f8a032",
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
+    },
+    "looplab": {
+      "version": "1.0.0",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/Loop-Lab.component.zip",
+      "component_sha256": "5799dae53a6edc1dbe75c2ad3787c036fd289b1e7e50bde7f481fda4e534fb6d",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/Loop-Lab.vst3.zip",
+      "vst3_sha256": "0384d50835efbe5cf212eb712df91a4c95820718d6e4b69e217f66bd7338991b",
+      "release_notes": "v1.0.0: First release. Melody-loop player: 16 waveform slices on MIDI C1-E2, tempo sync, key detection, pitch to project key, reference-only folder scan, zero latency. UPDATE button wired to this feed."
     }
   }
 }
