@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "studio-rack": {
-      "version": "1.1.0",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Studio-Rack.component.zip",
-      "component_sha256": "a0b998eb508f9dc17703fcbcc76bf074276541d93034f651efaaf007344293c1",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Studio-Rack.vst3.zip",
-      "vst3_sha256": "252fe6bd71b2d983ca19242f51002a82f073c026a7ac44845758493f69bd7d42",
-      "release_notes": "v1.1.0: Removed the Tune (pitch) stage per user request \u2014 now a 9-stage chain. Fixed the static/hash: the plate's 0.8 Hz allpass modulation created FM sidebands on sustained material; modulation removed. Every faceplate knob is now directly draggable. Live animated meters: 1176 and CL 1B GR needles, Pro-L 2 GR/IN/OUT bars, Pro-DS activity LED, clickable 1176 ratio buttons."
+      "version": "1.1.1",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.1/Studio-Rack.component.zip",
+      "component_sha256": "236c5eacd65d114be7ec65fe8e29db8e22f5e9a9f6e2647b215c39cc908c58c9",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.1/Studio-Rack.vst3.zip",
+      "vst3_sha256": "e4f2727a407a1bca99c4e760e5be1b6e975b5810e688299a8466d8053cf3485d",
+      "release_notes": "v1.1.1: Scrollable 19-inch hardware-rack redesign \u2014 all 9 faceplates stacked in signal-flow order in a stained-wood cabinet with black rails (no more tabs). No per-unit bottom strips: every knob drags directly on its faceplate. Live meters on every unit (1176/CL 1B GR needles, Pro-L 2 GR/IN/OUT bars, Pro-DS activity LED), clickable 1176 ratio buttons, per-faceplate ON/OFF power toggles with obvious bypass dimming. Slim header (title/version/UPDATE) + slim footer (master IN/OUT). DSP unchanged from v1.1.0."
     }
   }
 }
