@@ -19,10 +19,10 @@
     "looplab": {
       "version": "1.1.0",
       "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Loop-Lab-v1.1.0.component.zip",
-      "component_sha256": "eb5e328ebd46f8ec404340e7f403cc0f5bf3c801d0728d39d9595fd47c803737",
+      "component_sha256": "f0ea2b6bbaa2e02cd37ebeaa0d7bf747e8a0ee90b72ef1bdb045a6df62b83239",
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Loop-Lab-v1.1.0.vst3.zip",
-      "vst3_sha256": "5000dbcf3bf6cb5791186084a951fa211f58bd599358b23b5339b18ad1546f13",
-      "release_notes": "v1.1.0: Full redesign. The 16 slice slots are gone \u2014 replaced by LEFT TRIM and RIGHT TRIM knobs for sample start/end (trimmed region stays tempo-synced). New CHOP button flips the loop into a Migos-style chop pattern \u2014 press again for a new pattern. New DRAG OUT button drags the chopped loop straight into the DAW playlist. The scanned library now stays in the plugin forever \u2014 no more rescanning."
+      "vst3_sha256": "fab69cd203501433986ab57cec2d03f39e8cbfaf41894aa140ce7a67ef0306bb",
+      "release_notes": "v1.1.0: 16 MIDI slots removed \u2014 one-slot workflow. Left/right trim knobs. Big CHOP button \u2014 Migos No Label 2 style chop patterns (grid-chopped, rearranged, pitched/stuttered), press again for a new pattern. DRAG OUT button to copy the chopped loop into the FL Studio playlist. Permanent sample library."
     },
     "hub": {
       "version": "1.0.2",
