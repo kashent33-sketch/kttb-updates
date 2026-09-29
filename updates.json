@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.1.0",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Loop-Lab-v1.1.0.component.zip",
-      "component_sha256": "f0ea2b6bbaa2e02cd37ebeaa0d7bf747e8a0ee90b72ef1bdb045a6df62b83239",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Loop-Lab-v1.1.0.vst3.zip",
-      "vst3_sha256": "fab69cd203501433986ab57cec2d03f39e8cbfaf41894aa140ce7a67ef0306bb",
-      "release_notes": "v1.1.0: 16 MIDI slots removed \u2014 one-slot workflow. Left/right trim knobs. Big CHOP button \u2014 Migos No Label 2 style chop patterns (grid-chopped, rearranged, pitched/stuttered), press again for a new pattern. DRAG OUT button to copy the chopped loop into the FL Studio playlist. Permanent sample library."
+      "version": "1.1.1",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.1/Loop-Lab-v1.1.1.component.zip",
+      "component_sha256": "b8d793f0b5a44638d640f26fd7c1d78147666fa0da878416055f00057351f283",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.1/Loop-Lab-v1.1.1.vst3.zip",
+      "vst3_sha256": "d71622ecdf5868c024963237639dc38a057f0194151978d2d0f700630b7551e3",
+      "release_notes": "v1.1.1: BPM readout removed from the UI (tempo sync still runs on auto-detected BPM). Drag/export now computes the tempo-stretch ratio fresh at export time \u2014 dragged WAVs play at the right speed in the DAW. Arrow-key library navigation (up/down moves the loop list selection)."
     },
     "hub": {
       "version": "1.0.2",
