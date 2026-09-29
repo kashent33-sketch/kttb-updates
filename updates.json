@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.0.4",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.4/Loop-Lab-v1.0.4.component.zip",
-      "component_sha256": "19bb79ae4b36620c6109d1bc63a53a8dbf5f4ff838a0f887270eaca287300272",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.4/Loop-Lab-v1.0.4.vst3.zip",
-      "vst3_sha256": "80a06e9964c9ed87ab7b0782c975be27197ea91694733990219b3ad63d5d3510",
-      "release_notes": "v1.0.4: Fixed the CPU spike \u2014 the timestretch engine now bypasses the heavy path when the loop tempo is already near the project tempo. Fixed the static/crackle at the loop wrap-around with an adaptive crossfade. Removed the LOOP toggle switch \u2014 looping is automatic now. Added spacebar play/stop."
+      "version": "1.1.0",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Loop-Lab-v1.1.0.component.zip",
+      "component_sha256": "eb5e328ebd46f8ec404340e7f403cc0f5bf3c801d0728d39d9595fd47c803737",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.0/Loop-Lab-v1.1.0.vst3.zip",
+      "vst3_sha256": "5000dbcf3bf6cb5791186084a951fa211f58bd599358b23b5339b18ad1546f13",
+      "release_notes": "v1.1.0: Full redesign. The 16 slice slots are gone \u2014 replaced by LEFT TRIM and RIGHT TRIM knobs for sample start/end (trimmed region stays tempo-synced). New CHOP button flips the loop into a Migos-style chop pattern \u2014 press again for a new pattern. New DRAG OUT button drags the chopped loop straight into the DAW playlist. The scanned library now stays in the plugin forever \u2014 no more rescanning."
     },
     "hub": {
       "version": "1.0.2",
