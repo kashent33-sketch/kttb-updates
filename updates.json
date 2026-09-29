@@ -23,7 +23,7 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.0/Loop-Lab-v1.3.0.vst3.zip",
       "vst3_sha256": "2fedba21cf50ef936af0027634bdfc67bcfc6c9db5e4c3a1e6d6193f54d898c5",
       "release_notes": "v1.3.0: User-approved interface rebuild (dark indigo/violet) with integrated LOOP BANK: searchable browser, N loops counter, click + arrow-key selection with auto-play preview. GROSS knobs (STUTTER, HALF-TIME, GATE). Waveform with trim shading, TRIM L/R sliders, KEY/BPM pills, CHOP toggle, drag-export.",
-      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.2.0.png"
+      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.3.0.png"
     },
     "hub": {
       "version": "1.0.2",
