@@ -23,7 +23,7 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.4.0/Loop-Lab-v1.4.0.vst3.zip",
       "vst3_sha256": "3f76b1b214ad48d24a80d36270b23400d8ddaf323fa6ef5845d35e4646a74a06",
       "release_notes": "v1.4.0: KEY FINDER \u2014 filter the loop library by musical key. Pick a root note (C..B) + Major/Minor, the bank shows only matching loops (\"X of N loops\"); CLEAR resets. Key auto-detected from filenames (Amin, F#maj, Bbm...). Composes with text search; auto-play and arrow-key nav keep working.",
-      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.3.0.png"
+      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.4.0.png"
     },
     "hub": {
       "version": "1.0.2",
