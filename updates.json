@@ -25,10 +25,10 @@
       "release_notes": "v1.0.2: Fixed whole-loop PLAY outputting loud static \u2014 voices now render directly into the host buffer (no voiceMix intermediate). Added real audio-based BPM detection (no more stuck-at-150). Tempo sync now defaults ON so loops follow the DAW project tempo. Melody-loop player: 16 waveform slices on MIDI C1-E2, key detection, pitch to project key, reference-only folder scan, zero latency. UPDATE button wired to this feed."
     },
     "hub": {
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/hub/v1.0.1/KTTB-Hub.app.zip",
-      "sha256": "2134e50dfa4c6819bc2fc7e2434c11a00ce70aad3c8d3f949e90deac4fec0b10",
-      "release_notes": "v1.0.1: Hub can now update itself from inside the Hub (UPDATE HUB button). Fixed downloader stall that aborted every download after 64 KB."
+      "version": "1.0.2",
+      "url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/hub/v1.0.2/KTTB-Hub.app.zip",
+      "sha256": "8ab3b1a7361aa73e8bad654d7bd9701f375f19a2fc0d25bfa3f315e8ba507bc9",
+      "release_notes": "v1.0.2: Fixed the crash on launch for the owner-stats path (SIGABRT in the stats worker teardown \u2014 the result callback no longer destroys its own worker thread). Downloaded plugin files now also land in ~/Documents/KTTB Plugins/<name>/ so you can move them wherever you like."
     }
   }
 }
