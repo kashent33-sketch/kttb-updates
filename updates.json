@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.0.3",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.3/Loop-Lab-v1.0.3.component.zip",
-      "component_sha256": "82a66fdaef6d6bd89ce977d656993c66a59fc82b892f9385befdfcc40f55288b",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.3/Loop-Lab-v1.0.3.vst3.zip",
-      "vst3_sha256": "32cef23942e61ccb103ca76196075485396c393fa633f1c6cab9040e780906c7",
-      "release_notes": "v1.0.3: Rewrote BPM auto-detection (phrase-anchored) \u2014 reads real melodic loops correctly instead of locking to half-time (wrong tempos also caused the CPU spike via bad stretch ratios). Per-slice pitch sliders replaced with knobs. Fixed blurred ghost text behind loop names. Removed categories \u2014 the library is now one flat searchable list (search matches filename and parent folder name). UPDATE button wired to this feed."
+      "version": "1.0.4",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.4/Loop-Lab-v1.0.4.component.zip",
+      "component_sha256": "19bb79ae4b36620c6109d1bc63a53a8dbf5f4ff838a0f887270eaca287300272",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.4/Loop-Lab-v1.0.4.vst3.zip",
+      "vst3_sha256": "80a06e9964c9ed87ab7b0782c975be27197ea91694733990219b3ad63d5d3510",
+      "release_notes": "v1.0.4: Fixed the CPU spike \u2014 the timestretch engine now bypasses the heavy path when the loop tempo is already near the project tempo. Fixed the static/crackle at the loop wrap-around with an adaptive crossfade. Removed the LOOP toggle switch \u2014 looping is automatic now. Added spacebar play/stop."
     },
     "hub": {
       "version": "1.0.2",
