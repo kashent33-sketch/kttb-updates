@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.1.1",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.1/Loop-Lab-v1.1.1.component.zip",
-      "component_sha256": "b8d793f0b5a44638d640f26fd7c1d78147666fa0da878416055f00057351f283",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.1.1/Loop-Lab-v1.1.1.vst3.zip",
-      "vst3_sha256": "d71622ecdf5868c024963237639dc38a057f0194151978d2d0f700630b7551e3",
-      "release_notes": "v1.1.1: BPM readout removed from the UI (tempo sync still runs on auto-detected BPM). Drag/export now computes the tempo-stretch ratio fresh at export time \u2014 dragged WAVs play at the right speed in the DAW. Arrow-key library navigation (up/down moves the loop list selection)."
+      "version": "1.2.0",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.2.0/Loop-Lab-v1.2.0.component.zip",
+      "component_sha256": "6ad874ed0900395ce5dce1e3b6c613b7ca24b37dd03da5fa5d75a40194aab3cf",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.2.0/Loop-Lab-v1.2.0.vst3.zip",
+      "vst3_sha256": "bc05351b09995fbce6ef3b0bf602d4bd53ca4cc7798851c21510339704194b5e",
+      "release_notes": "v1.2.0: GROSS knobs (Gross Beat-style STUTTER 1/4-1/32, HALF-TIME, GATE 1/16 pump) with tempo-synced modulation. Library counter shows N loops. Auto-play on select (click or arrow keys previews immediately). Continuous tempo sync tracks project tempo changes live. CHOP button toggles on/off."
     },
     "hub": {
       "version": "1.0.2",
