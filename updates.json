@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.5.1",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.1/Loop-Lab-v1.5.1.component.zip",
-      "component_sha256": "3582992a9a2b6b3d3f933f8a8d595f3440d50f98f7f7ba14d03a27fcd1e97d07",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.1/Loop-Lab-v1.5.1.vst3.zip",
-      "vst3_sha256": "52a8ee534d283357f60592288ad4baa0182a4aa2391679ba060b4ebc1ae8722d",
-      "release_notes": "v1.5.1: New 6th category tab \u2014 VocalLoops (\"Vocal Loops\"). Folder-based like the other 5 categories; per-category counts, composes with search/key/used filters. Everything else identical to v1.5.0.",
+      "version": "1.5.2",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.2/Loop-Lab-v1.5.2.component.zip",
+      "component_sha256": "d0912e40bceee75976e3c5bfddb1df127940f2cb1bba5a90951e1a3d87ea9675",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.2/Loop-Lab-v1.5.2.vst3.zip",
+      "vst3_sha256": "9516b6fc79d3267d7e7e5b6872bbf1f0e9ae61f0143b1176afc93e2d63951a90",
+      "release_notes": "v1.5.2: Category tabs use 2-letter initials (Sl/Bl/Dl/Hl/Pl/Vl) \u2014 no overlapping labels; full name on hover. Drag-out export is now bit-exact for the trim region (no fade-in/out). DC offset removed on load (fixes low-level hum/static).",
       "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.5.0.png"
     },
     "hub": {
