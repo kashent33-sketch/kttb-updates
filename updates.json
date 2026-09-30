@@ -1,11 +1,11 @@
 {
   "plugins": {
     "subplayer": {
-      "version": "1.3.2",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.2/Sub-Player-Pro.component.zip",
-      "component_sha256": "5cce47b60d882b3954fcd1c1587f80c508cd32a127819a655917677a407c71e2",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.2/Sub-Player-Pro.vst3.zip",
-      "vst3_sha256": "abd03032202074e89a1bf57848a3bb95b118bf5e97b78f2fac56f68b81998f05",
+      "version": "1.3.3",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.3/Sub-Player-Pro.component.zip",
+      "component_sha256": "c18d3ecedf7bfdc23ef9b61319fc95359b8e3cee3f09cb60f3ee70dffc451c17",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.3/Sub-Player-Pro.vst3.zip",
+      "vst3_sha256": "7e14924962a8f1663fab6c1871b9733a0f82f7311f681fb65f8a1f5cb8deccdc",
       "release_notes": "v1.3.2: PITCH knob restored (master + all 16 per-pad pitch params, -24..+24 semitones, default 0). Old sessions keep their pitch values. Knob values still carry when scrolling the bank, CHOKE stays global and ON, UPDATE button wired to the live feed."
     },
     "lock": {
