@@ -17,12 +17,12 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.4.0",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.4.0/Loop-Lab-v1.4.0.component.zip",
-      "component_sha256": "96d7578125de1197855637d5be1fb6fc2eb165bf023768d809eafb1cd54d0171",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.4.0/Loop-Lab-v1.4.0.vst3.zip",
-      "vst3_sha256": "3f76b1b214ad48d24a80d36270b23400d8ddaf323fa6ef5845d35e4646a74a06",
-      "release_notes": "v1.4.0: KEY FINDER \u2014 filter the loop library by musical key. Pick a root note (C..B) + Major/Minor, the bank shows only matching loops (\"X of N loops\"); CLEAR resets. Key auto-detected from filenames (Amin, F#maj, Bbm...). Composes with text search; auto-play and arrow-key nav keep working.",
+      "version": "1.4.1",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.4.1/Loop-Lab-v1.4.1.component.zip",
+      "component_sha256": "58644378ae63f9d038ac68cfcac2ea890060b6251d8a8397bfa6f586ac7ec3d9",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.4.1/Loop-Lab-v1.4.1.vst3.zip",
+      "vst3_sha256": "df4215da526bda493af166eacf382cc10c6ca75975cf1e670600b502635786bf",
+      "release_notes": "v1.4.1: Trim sliders can no longer cross (Trim L clamps to Trim R and vice versa). Drag-export now applies GROSS effects (stutter/gate/half-time) \u2014 the dragged WAV matches what you hear. Verified playback starts at the trim point.",
       "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.4.0.png"
     },
     "hub": {
