@@ -17,13 +17,13 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.0.0/KTTB-LOCK.vst3.zip"
     },
     "looplab": {
-      "version": "1.4.1",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.4.1/Loop-Lab-v1.4.1.component.zip",
-      "component_sha256": "58644378ae63f9d038ac68cfcac2ea890060b6251d8a8397bfa6f586ac7ec3d9",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.4.1/Loop-Lab-v1.4.1.vst3.zip",
-      "vst3_sha256": "df4215da526bda493af166eacf382cc10c6ca75975cf1e670600b502635786bf",
-      "release_notes": "v1.4.1: Trim sliders can no longer cross (Trim L clamps to Trim R and vice versa). Drag-export now applies GROSS effects (stutter/gate/half-time) \u2014 the dragged WAV matches what you hear. Verified playback starts at the trim point.",
-      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.4.0.png"
+      "version": "1.5.0",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.0/Loop-Lab-v1.5.0.component.zip",
+      "component_sha256": "ab04be6205942163a0f87d22325ee0b87bfa4c580f0b1f6daa8eb213d50f0d4d",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.0/Loop-Lab-v1.5.0.vst3.zip",
+      "vst3_sha256": "228db69ff54353231ff263a7e3b057a2c50e5358b9a81ed03465a067a0d83714",
+      "release_notes": "v1.5.0: Category tabs (SampleLoops/Bass/Drum/Hihat/Percussion). Persistent library \u2014 no rescan needed. 'Used' checkmarks to track loops in tracks. Removed KEY/BPM pills, GROSS panel, and CHOP. Fixed mojibake. DRAG OUT renders exactly the trimmed region. Filename key parser + audio key detection (background, cached).",
+      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.5.0.png"
     },
     "hub": {
       "version": "1.0.2",
