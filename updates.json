@@ -23,7 +23,7 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.3/Loop-Lab-v1.5.3.vst3.zip",
       "vst3_sha256": "b76648d6747dc63c45d10405ace93bd83fb7ed606d7ce9e214d18e0706b8ffaa",
       "release_notes": "v1.5.3: Full clean rebuild \u2014 fixes v1.5.2 shipping with stale 1.5.1 binary. Category tabs use 2-letter initials (Sl/Bl/Dl/Hl/Pl/Vl); VocalLoops category; bit-exact drag-out export; DC offset removal on load.",
-      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.5.2.png"
+      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.5.3.png"
     },
     "hub": {
       "version": "1.0.2",
