@@ -23,7 +23,7 @@
       "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.5.2/Loop-Lab-v1.5.2.vst3.zip",
       "vst3_sha256": "9516b6fc79d3267d7e7e5b6872bbf1f0e9ae61f0143b1176afc93e2d63951a90",
       "release_notes": "v1.5.2: Category tabs use 2-letter initials (Sl/Bl/Dl/Hl/Pl/Vl) \u2014 no overlapping labels; full name on hover. Drag-out export is now bit-exact for the trim region (no fade-in/out). DC offset removed on load (fixes low-level hum/static).",
-      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.5.0.png"
+      "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.5.2.png"
     },
     "hub": {
       "version": "1.0.2",
