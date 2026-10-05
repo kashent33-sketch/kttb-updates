@@ -26,10 +26,10 @@
       "artwork_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/artwork/looplab-v1.5.3.png"
     },
     "hub": {
-      "version": "1.0.2",
-      "url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/hub/v1.0.2/KTTB-Hub.app.zip",
-      "sha256": "8ab3b1a7361aa73e8bad654d7bd9701f375f19a2fc0d25bfa3f315e8ba507bc9",
-      "release_notes": "v1.0.2: Fixed the crash on launch for the owner-stats path (SIGABRT in the stats worker teardown \u2014 the result callback no longer destroys its own worker thread). Downloaded plugin files now also land in ~/Documents/KTTB Plugins/<name>/ so you can move them wherever you like."
+      "version": "1.0.3",
+      "url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/hub/v1.0.3/KTTB-Hub.app.zip",
+      "sha256": "392c4ef079af5921c331e1f4a5147c0b63cdb60b6e250cbb5459d4ceb640e056",
+      "release_notes": "v1.0.3: Removed Loop Lab from the catalog \u2014 it was uninstalled after preventing LUNA from loading. Hub now shows Sub-Player Pro only. Loop Lab is hidden behind #if 0 in the source for easy restore when the LUNA issue is resolved."
     }
   }
 }
