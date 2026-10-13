@@ -1,12 +1,12 @@
 {
   "plugins": {
     "subplayer": {
-      "version": "1.3.4",
-      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.4/Sub-Player-Pro-v1.3.4.component.zip",
-      "component_sha256": "02658240a7c381bd9074a88373526f7e74e1bf6c2155eb242286ea95b2d98448",
-      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.4/Sub-Player-Pro-v1.3.4.vst3.zip",
-      "vst3_sha256": "4181e793e3259ab02813df2c7b00071d15544a98b6618ddb41fbeccf8d75d2c4",
-      "release_notes": "v1.3.4: Up/Down arrow keys now step through the sample list \u2014 the list scrolls to keep the selected sample visible and each step previews the sample just like clicking it."
+      "version": "1.3.5",
+      "component_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.5/Sub-Player-Pro-v1.3.5.component.zip",
+      "component_sha256": "ce0916db9a5ee5ee8fc68ee99dc68245d4ea03ce64b3c6704c6529bfa54f5c70",
+      "vst3_url": "https://raw.githubusercontent.com/kashent33-sketch/kttb-updates/main/releases/v1.3.5/Sub-Player-Pro-v1.3.5.vst3.zip",
+      "vst3_sha256": "a824acbdc305f950970438421a5a16c2f545449d7b820746cae32b685bd7857a",
+      "release_notes": "v1.3.5: Removed the 1MB file-size cap entirely \u2014 every sub now scans, loads, and plays regardless of size. NEW: auto fresh rescan \u2014 the plugin watches your sub folder and rescans automatically when you add or remove subs."
     },
     "lock": {
       "component_sha256": "55a59a563cb7a0147ab6430fce11c437417603d37b00c8fdd8bec61b6e0288d4",
